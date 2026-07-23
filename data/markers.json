@@ -1,0 +1,330 @@
+[
+  {
+    "id": "lactose",
+    "rsid": "rs4988235",
+    "gene": "MCM6 / LACTASE",
+    "category": "diet",
+    "title": "Lactose tolerance",
+    "about": "Whether your body keeps producing lactase — the enzyme that digests milk sugar — into adulthood."
+  },
+  {
+    "id": "caffeine",
+    "rsid": "rs762551",
+    "gene": "CYP1A2",
+    "category": "diet",
+    "title": "Caffeine metabolism",
+    "about": "How quickly your liver clears caffeine from your system."
+  },
+  {
+    "id": "alcohol-flush",
+    "rsid": "rs671",
+    "gene": "ALDH2",
+    "category": "diet",
+    "title": "Alcohol flush response",
+    "about": "The 'Asian flush' — whether you break down alcohol's toxic byproduct (acetaldehyde) efficiently."
+  },
+  {
+    "id": "alcohol-metab",
+    "rsid": "rs1229984",
+    "gene": "ADH1B",
+    "category": "diet",
+    "title": "Alcohol metabolism rate",
+    "about": "How fast the first step of alcohol breakdown runs."
+  },
+  {
+    "id": "carb-weight",
+    "rsid": "rs9939609",
+    "gene": "FTO",
+    "category": "diet",
+    "title": "Appetite & weight response",
+    "about": "The most-studied common variant linked to appetite regulation and body weight."
+  },
+  {
+    "id": "blood-sugar",
+    "rsid": "rs7903146",
+    "gene": "TCF7L2",
+    "category": "diet",
+    "title": "Carbohydrate sensitivity",
+    "about": "A variant linked to how the body manages blood sugar after carbs."
+  },
+  {
+    "id": "bitter-taste",
+    "rsid": "rs1726866",
+    "gene": "TAS2R38",
+    "category": "diet",
+    "title": "Bitter taste perception",
+    "about": "How strongly you taste bitter compounds — which shapes feelings about brassica veg, coffee, and dark greens."
+  },
+  {
+    "id": "fatty-acids",
+    "rsid": "rs174547",
+    "gene": "FADS1",
+    "category": "diet",
+    "title": "Omega fatty-acid processing",
+    "about": "How well you convert plant-based ALA into the long-chain omega-3s (EPA/DHA) the body uses."
+  },
+  {
+    "id": "folate",
+    "rsid": "rs1801133",
+    "gene": "MTHFR",
+    "category": "wellness",
+    "title": "Folate processing (MTHFR C677T)",
+    "about": "How efficiently you activate folate (vitamin B9) — relevant to B-vitamin needs."
+  },
+  {
+    "id": "vitamin-d",
+    "rsid": "rs10741657",
+    "gene": "CYP2R1",
+    "category": "wellness",
+    "title": "Vitamin D levels",
+    "about": "A variant influencing how readily you maintain vitamin D status."
+  },
+  {
+    "id": "vitamin-d-binding",
+    "rsid": "rs2282679",
+    "gene": "GC",
+    "category": "wellness",
+    "title": "Vitamin D transport",
+    "about": "Affects the binding protein that carries vitamin D in the blood."
+  },
+  {
+    "id": "iron",
+    "rsid": "rs1799945",
+    "gene": "HFE (H63D)",
+    "category": "wellness",
+    "title": "Iron absorption",
+    "about": "A common variant affecting how much dietary iron you absorb."
+  },
+  {
+    "id": "dopamine",
+    "rsid": "rs4680",
+    "gene": "COMT",
+    "category": "wellness",
+    "title": "Dopamine clearance (COMT)",
+    "about": "The 'warrior / worrier' variant — how fast you clear dopamine in the prefrontal cortex, linked to stress response and focus style."
+  },
+  {
+    "id": "earwax",
+    "rsid": "rs17822931",
+    "gene": "ABCC11",
+    "category": "wellness",
+    "title": "Earwax & body odor type",
+    "about": "A single variant that determines wet vs. dry earwax — and correlates with sweat/body-odor type."
+  },
+  {
+    "id": "eye-color",
+    "rsid": "rs12913832",
+    "gene": "HERC2 / OCA2",
+    "category": "physical",
+    "title": "Eye colour",
+    "about": "The single strongest common predictor of blue vs. brown eyes — it switches nearby pigment genes on or off."
+  },
+  {
+    "id": "freckles",
+    "rsid": "rs1393350",
+    "gene": "TYR",
+    "category": "physical",
+    "title": "Freckling & sun response",
+    "about": "A pigment-gene variant linked to freckling and UV sensitivity."
+  },
+  {
+    "id": "pigment",
+    "rsid": "rs12203592",
+    "gene": "IRF4",
+    "category": "physical",
+    "title": "Skin & hair pigment",
+    "about": "Influences hair/skin tone, freckling, and how skin tans vs. burns."
+  },
+  {
+    "id": "endurance",
+    "rsid": "rs8192678",
+    "gene": "PPARGC1A",
+    "category": "physical",
+    "title": "Endurance vs. power",
+    "about": "A variant in the 'mitochondrial master switch' linked to aerobic endurance capacity."
+  },
+  {
+    "id": "bdnf-memory",
+    "rsid": "rs6265",
+    "gene": "BDNF (Val66Met)",
+    "category": "physical",
+    "title": "BDNF — learning & mood",
+    "about": "A brain-growth-factor variant linked to memory, learning, and exercise-driven mood benefits."
+  },
+  {
+    "id": "apoe-lipid",
+    "rsid": "rs7412",
+    "gene": "APOE",
+    "category": "health",
+    "title": "Cholesterol handling (APOE)",
+    "about": "One of two APOE markers. This one (rs7412) distinguishes the E2 form, associated with how the body clears blood lipids."
+  },
+  {
+    "id": "triglycerides",
+    "rsid": "rs662799",
+    "gene": "APOA5",
+    "category": "health",
+    "title": "Triglyceride tendency",
+    "about": "A common variant associated with how high blood triglycerides tend to run, especially on high-carb/high-fat diets."
+  },
+  {
+    "id": "t2d-ppar",
+    "rsid": "rs1801282",
+    "gene": "PPARG (Pro12Ala)",
+    "category": "health",
+    "title": "Insulin sensitivity (PPARG)",
+    "about": "The Ala variant is associated with modestly better insulin sensitivity — one of the more reassuring common metabolic variants."
+  },
+  {
+    "id": "clotting-fvl",
+    "rsid": "rs6025",
+    "gene": "F5",
+    "category": "health",
+    "title": "Clotting — Factor V Leiden",
+    "about": "A well-known variant affecting blood-clotting tendency. Important caveat below."
+  },
+  {
+    "id": "fuel-type",
+    "rsid": "rs4253778",
+    "gene": "PPARA",
+    "category": "fitness",
+    "title": "Training fuel & fibre type",
+    "about": "A regulator of how muscle uses fat vs. carbohydrate for fuel — linked to endurance vs. power/strength leaning."
+  },
+  {
+    "id": "training-response",
+    "rsid": "rs1042713",
+    "gene": "ADRB2",
+    "category": "fitness",
+    "title": "Fat-burning & training response",
+    "about": "A receptor that governs how readily stored fat is mobilised during exercise and how the body responds to training."
+  },
+  {
+    "id": "tendon-injury",
+    "rsid": "rs1800012",
+    "gene": "COL1A1",
+    "category": "fitness",
+    "title": "Tendon & ligament resilience",
+    "about": "A collagen-gene variant linked to connective-tissue strength and soft-tissue injury risk (sprains, tendon issues)."
+  },
+  {
+    "id": "lactate",
+    "rsid": "rs1049434",
+    "gene": "MCT1 (SLC16A1)",
+    "category": "fitness",
+    "title": "Lactate clearance",
+    "about": "Affects how fast muscle clears lactate — relevant to high-intensity work and how quickly you recover between hard efforts."
+  },
+  {
+    "id": "strength-response",
+    "rsid": "rs699",
+    "gene": "AGT",
+    "category": "fitness",
+    "title": "Strength-training response",
+    "about": "An angiotensinogen variant associated with muscle-growth and strength response to resistance training."
+  },
+  {
+    "id": "oxidative-aging",
+    "rsid": "rs4880",
+    "gene": "SOD2",
+    "category": "skin",
+    "title": "Antioxidant defense (skin aging)",
+    "about": "SOD2 neutralises free radicals in cells. This variant affects how efficiently you clear oxidative stress — a driver of skin aging."
+  },
+  {
+    "id": "catalase",
+    "rsid": "rs1001179",
+    "gene": "CAT",
+    "category": "skin",
+    "title": "Hydrogen-peroxide clearance",
+    "about": "Catalase breaks down hydrogen peroxide (an oxidant linked to greying and skin stress). This variant affects its level."
+  },
+  {
+    "id": "detox-gst",
+    "rsid": "rs1695",
+    "gene": "GSTP1",
+    "category": "skin",
+    "title": "Detox & pollution defense",
+    "about": "GSTP1 helps neutralise environmental toxins and pollution byproducts that stress skin."
+  },
+  {
+    "id": "uv-pigment",
+    "rsid": "rs1800440",
+    "gene": "TYR",
+    "category": "skin",
+    "title": "UV response & tanning",
+    "about": "A pigment-gene variant influencing how skin responds to UV — burning vs. tanning and melanoma-relevant sun sensitivity."
+  },
+  {
+    "id": "p53-skin",
+    "rsid": "rs1042522",
+    "gene": "TP53",
+    "category": "skin",
+    "title": "Cellular repair (P53)",
+    "about": "TP53 is the cell's master 'repair-or-retire damaged cells' switch — relevant to how skin handles UV/oxidative damage over time."
+  },
+  {
+    "id": "fat-cell",
+    "rsid": "rs1421085",
+    "gene": "FTO",
+    "category": "diet",
+    "title": "Fat-cell programming (FTO causal)",
+    "about": "The actual causal variant in the FTO obesity locus — it shifts fat cells away from calorie-burning beige fat toward calorie-storing white fat."
+  },
+  {
+    "id": "appetite-mc4r",
+    "rsid": "rs17782313",
+    "gene": "MC4R",
+    "category": "diet",
+    "title": "Appetite & snacking drive",
+    "about": "A variant near the brain's master appetite-control gene, linked to satiety, snacking, and preference for energy-dense food."
+  },
+  {
+    "id": "fat-response",
+    "rsid": "rs5082",
+    "gene": "APOA2 / CELSR2 region",
+    "category": "diet",
+    "title": "Dietary fat response",
+    "about": "A variant linked to how your weight and lipids respond to a high-saturated-fat diet."
+  },
+  {
+    "id": "hdl-cetp",
+    "rsid": "rs2070895",
+    "gene": "LIPC",
+    "category": "diet",
+    "title": "Good-cholesterol (HDL) tendency",
+    "about": "A variant associated with HDL ('good' cholesterol) levels and how they respond to diet and exercise."
+  },
+  {
+    "id": "caffeine-metabolism",
+    "rsid": "rs762551",
+    "gene": "CYP1A2",
+    "category": "pharma",
+    "title": "Caffeine metabolism speed",
+    "about": "How fast the CYP1A2 enzyme clears caffeine — the difference between a coffee that wears off in hours and one that keeps you up."
+  },
+  {
+    "id": "warfarin-sensitivity",
+    "rsid": "rs9923231",
+    "gene": "VKORC1",
+    "category": "pharma",
+    "title": "Warfarin dose sensitivity",
+    "about": "A variant that strongly influences how much of the blood thinner warfarin a person needs — one of the best-established pharmacogenetic links."
+  },
+  {
+    "id": "clopidogrel",
+    "rsid": "rs4244285",
+    "gene": "CYP2C19",
+    "category": "pharma",
+    "title": "Clopidogrel (Plavix) response",
+    "about": "Whether you activate clopidogrel — a common anti-clotting drug after heart procedures. Poor metabolizers get less benefit from it."
+  },
+  {
+    "id": "malignant-hyperthermia",
+    "rsid": "rs1801086",
+    "gene": "RYR1",
+    "category": "pharma",
+    "title": "Anaesthetic sensitivity (RYR1)",
+    "about": "A rare but serious reaction to certain general anaesthetics. A consumer chip covers only a few of the many RYR1 variants — a normal result here does NOT rule it out."
+  }
+]

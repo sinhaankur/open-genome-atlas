@@ -1,0 +1,36 @@
+{
+  "name": "open-genome-atlas",
+  "version": "0.1.0",
+  "description": "Curated, cited per-variant notes (genetics + diet/lifestyle/region evidence) built from open genomics APIs. DNA is the source of truth; region/diet are context that modulates.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "exports": {
+    ".": "./src/index.mjs",
+    "./data/markers": "./data/markers.json",
+    "./data/annotations": "./data/annotations.json",
+    "./data/evidence": "./data/evidence.json"
+  },
+  "files": ["src", "data", "README.md", "LICENSE", "LICENSE-DATA"],
+  "scripts": {
+    "fetch": "node scripts/fetch-annotations.mjs",
+    "validate": "node scripts/validate.mjs"
+  },
+  "keywords": [
+    "genomics",
+    "snp",
+    "dbsnp",
+    "clinvar",
+    "gnomad",
+    "dna",
+    "variant",
+    "open-data",
+    "dataset"
+  ],
+  "author": "Ankur Sinha (https://www.sinhaankur.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinhaankur/open-genome-atlas"
+  },
+  "homepage": "https://www.sinhaankur.com/dna/databases"
+}

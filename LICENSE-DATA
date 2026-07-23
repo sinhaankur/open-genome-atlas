@@ -1,0 +1,20 @@
+CC0 1.0 Universal — Public Domain Dedication (data/ only)
+
+The curated dataset in the data/ directory (markers.json, annotations.json,
+evidence.json) is released into the public domain under Creative Commons CC0 1.0.
+You may copy, modify, distribute, and use it, even commercially, without asking
+permission.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/
+
+WHAT THIS COVERS: the curation, structure, and compilation in these files.
+
+WHAT IT DOES NOT CHANGE: the underlying facts come from public sources with their
+own terms. Where a record cites dbSNP, ClinVar, gnomAD, Ensembl, or a published
+paper, honor that source's attribution/terms when you rely on it. The evidence.json
+findings summarize published research — cite the linked PMIDs, not this repo, when
+the science itself matters.
+
+NOT MEDICAL ADVICE. These are associations and tendencies compiled for education,
+not diagnosis. Nothing here is a substitute for a clinician or a validated
+clinical test.
